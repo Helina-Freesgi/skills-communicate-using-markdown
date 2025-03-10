@@ -3,4 +3,6 @@
 ### Syntax
 #### Extended Syntax
 ##### GH Flavored MD
-###### Math and Embeded data
+
+###### Adding Images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
