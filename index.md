@@ -15,3 +15,12 @@
         if bp:
             return bp.serialize()
 ```
+
+###### Add a Task List
+
+    - [ ] Complete GH Foundations
+    - [ ] Complete GH Actions
+    - [ ] Complete DSA and System Design
+    - [x] Complete AWS Dev
+    - [ ] Complete AWS SAA
+
